@@ -1,0 +1,57 @@
+name: Fetch Yahoo News categories RSS feeds
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs the workflow every hour
+
+jobs:
+  fetch-rss-feeds:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Set up directories
+        id: setup
+        run: |
+          mkdir -p xml-categories
+      - name: Fetch domestic category RSS feed
+        run: |
+          current_time=$(date +'%Y%m%d_%H%M')
+          sleep 3s
+          curl -o "xml-categories/domestic_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/domestic.xml
+      - name: Fetch world category RSS feed
+        run: |
+          current_time=$(date +'%Y%m%d_%H%M')
+          sleep 3s
+          curl -o "xml-categories/world_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/world.xml
+      - name: Fetch business category RSS feed
+        run: |
+          current_time=$(date +'%Y%m%d_%H%M')
+          sleep 3s
+          curl -o "xml-categories/business_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/business.xml
+      - name: Fetch entertainment category RSS feed
+        run: |
+          current_time=$(date +'%Y%m%d_%H%M')
+          sleep 3s
+          curl -o "xml-categories/entertainment_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/entertainment.xml
+      - name: Fetch sports category RSS feed
+        run: |
+          current_time=$(date +'%Y%m%d_%H%M')
+          sleep 3s
+          curl -o "xml-categories/sports_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/sports.xml
+      - name: Fetch IT category RSS feed
+        run: |
+          current_time=$(date +'%Y%m%d_%H%M')
+          sleep 3s
+          curl -o "xml-categories/it_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/it.xml
+      - name: Fetch science category RSS feed
+        run: |
+          current_time=$(date +'%Y%m%d_%H%M')
+          sleep 3s
+          curl -o "xml-categories/science_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/science.xml
+      - name: Fetch life category RSS feed
+        run: |
+          current_time=$(date +'%Y%m%d_%H%M')
+          sleep 3s
+          curl -o "xml-categories/life_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/life.xml
+      - name: Show contents of xml-categories folder
+        run: ls -R xml-categories

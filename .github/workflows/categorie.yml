@@ -10,48 +10,50 @@ jobs:
 
     steps:
       - name: Set up directories
-        id: setup
         run: |
-          mkdir -p ${{ github.workspace }}/xml-categories
+          mkdir -p xml-categories
+          echo "dir=$(pwd)/xml-categories" >> "$GITHUB_OUTPUT"
+        id: setup
+
       - name: Fetch domestic category RSS feed
         run: |
           current_time=$(date +'%Y%m%d_%H%M')
           sleep 3s
-          curl -o "${{ github.workspace }}/xml-categories/domestic_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/domestic.xml
+          curl -o "${{ steps.setup.outputs.dir }}/domestic_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/domestic.xml
       - name: Fetch world category RSS feed
         run: |
           current_time=$(date +'%Y%m%d_%H%M')
           sleep 3s
-          curl -o "${{ github.workspace }}/xml-categories/world_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/world.xml
+          curl -o "${{ steps.setup.outputs.dir }}/world_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/world.xml
       - name: Fetch business category RSS feed
         run: |
           current_time=$(date +'%Y%m%d_%H%M')
           sleep 3s
-          curl -o "${{ github.workspace }}/xml-categories/business_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/business.xml
+          curl -o "${{ steps.setup.outputs.dir }}/business_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/business.xml
       - name: Fetch entertainment category RSS feed
         run: |
           current_time=$(date +'%Y%m%d_%H%M')
           sleep 3s
-          curl -o "${{ github.workspace }}/xml-categories/entertainment_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/entertainment.xml
+          curl -o "${{ steps.setup.outputs.dir }}/entertainment_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/entertainment.xml
       - name: Fetch sports category RSS feed
         run: |
           current_time=$(date +'%Y%m%d_%H%M')
           sleep 3s
-          curl -o "${{ github.workspace }}/xml-categories/sports_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/sports.xml
+          curl -o "${{ steps.setup.outputs.dir }}/sports_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/sports.xml
       - name: Fetch IT category RSS feed
         run: |
           current_time=$(date +'%Y%m%d_%H%M')
           sleep 3s
-          curl -o "${{ github.workspace }}/xml-categories/it_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/it.xml
+          curl -o "${{ steps.setup.outputs.dir }}/it_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/it.xml
       - name: Fetch science category RSS feed
         run: |
           current_time=$(date +'%Y%m%d_%H%M')
           sleep 3s
-          curl -o "${{ github.workspace }}/xml-categories/science_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/science.xml
+          curl -o "${{ steps.setup.outputs.dir }}/science_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/science.xml
       - name: Fetch life category RSS feed
         run: |
           current_time=$(date +'%Y%m%d_%H%M')
           sleep 3s
-          curl -o "${{ github.workspace }}/xml-categories/life_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/life.xml
+          curl -o "${{ steps.setup.outputs.dir }}/life_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/life.xml
       - name: Show contents of xml-categories folder
-        run: ls -R ${{ github.workspace }}/xml-categories
+        run: ls -R xml-categories

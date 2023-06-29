@@ -22,22 +22,22 @@ jobs:
           sleep 3
           curl -o "xml-categories/business_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/business.xml
           sleep 3
-          curl -o "xml-categories/entertainment_${current_time}_$(date +'%H%M').xml"https://news.yahoo.co.jp/rss/categories/entertainment.xml
+          curl -o "xml-categories/entertainment_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/entertainment.xml
           sleep 3
           curl -o "xml-categories/sports_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/sports.xml
           sleep 3
           curl -o "xml-categories/it_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/it.xml
           sleep 3
-          curl -o "xml-categories/science_${current_time}_$(date +'%H%M').xml"https://news.yahoo.co.jp/rss/categories/science.xml
+          curl -o "xml-categories/science_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/science.xml
           sleep 3
-          curl -o "xml-categories/life_${current_time}_$(date +'%H%M').xml"https://news.yahoo.co.jp/rss/categories/life.xml
+          curl -o "xml-categories/life_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/life.xml
           sleep 3
-          curl -o "xml-categories/local._${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/local.xml
+          curl -o "xml-categories/local_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/local.xml
 
       - name: Commit and push XML files
         run: |
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
-          git add xml-files/
+          git add xml-categories/
           git commit -m "Update XML files"
           git push

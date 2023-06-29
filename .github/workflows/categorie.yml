@@ -34,10 +34,13 @@ jobs:
           sleep 3
           curl -o "xml-categories/local_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/local.xml
 
-      - name: Commit and push XML files
+      - name: Configure Git user
         run: |
           git config user.name "Automated"
           git config user.email "actions@users.noreply.github.com"
+
+      - name: Commit and push XML files
+        run: |
           git add xml-categories/
           git commit -m "Update XML files"
           git push origin HEAD

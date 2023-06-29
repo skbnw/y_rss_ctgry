@@ -1,59 +1,43 @@
-name: Fetch Yahoo News categories RSS feeds
+name: Fetch Yahoo Categories All RSS Feed
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs the workflow every hour
+    - cron: '0,30 * * * *'  # Run at 0 minutes and 30 minutes
 
 jobs:
-  fetch-rss-feeds:
+  fetch-rss:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Set up directories
-        run: |
-          mkdir -p xml-categories
-          echo "dir=$(pwd)/xml-categories" >> "$GITHUB_OUTPUT"
-        id: setup
+      - name: Check out repo
+        uses: actions/checkout@v2
 
-      - name: Fetch domestic category RSS feed
+      - name: Fetch Yahoo Categories All RSS
         run: |
           current_time=$(date +'%Y%m%d_%H%M')
-          sleep 3s
-          curl -o "${{ steps.setup.outputs.dir }}/domestic_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/domestic.xml
-      - name: Fetch world category RSS feed
+          mkdir -p xml-categories
+          sleep 3
+          curl -o "xml-categories/domestic_${current_time}_$(date +'%H%M').xml"  https://news.yahoo.co.jp/rss/categories/domestic.xml
+          sleep 3
+          curl -o "xml-categories/world_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/world.xml
+          sleep 3
+          curl -o "xml-categories/business_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/business.xml
+          sleep 3
+          curl -o "xml-categories/entertainment_${current_time}_$(date +'%H%M').xml"https://news.yahoo.co.jp/rss/categories/entertainment.xml
+          sleep 3
+          curl -o "xml-categories/sports_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/sports.xml
+          sleep 3
+          curl -o "xml-categories/it_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/it.xml
+          sleep 3
+          curl -o "xml-categories/science_${current_time}_$(date +'%H%M').xml"https://news.yahoo.co.jp/rss/categories/science.xml
+          sleep 3
+          curl -o "xml-categories/life_${current_time}_$(date +'%H%M').xml"https://news.yahoo.co.jp/rss/categories/life.xml
+          sleep 3
+          curl -o "xml-categories/local._${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/local.xml
+
+      - name: Commit and push XML files
         run: |
-          current_time=$(date +'%Y%m%d_%H%M')
-          sleep 3s
-          curl -o "${{ steps.setup.outputs.dir }}/world_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/world.xml
-      - name: Fetch business category RSS feed
-        run: |
-          current_time=$(date +'%Y%m%d_%H%M')
-          sleep 3s
-          curl -o "${{ steps.setup.outputs.dir }}/business_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/business.xml
-      - name: Fetch entertainment category RSS feed
-        run: |
-          current_time=$(date +'%Y%m%d_%H%M')
-          sleep 3s
-          curl -o "${{ steps.setup.outputs.dir }}/entertainment_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/entertainment.xml
-      - name: Fetch sports category RSS feed
-        run: |
-          current_time=$(date +'%Y%m%d_%H%M')
-          sleep 3s
-          curl -o "${{ steps.setup.outputs.dir }}/sports_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/sports.xml
-      - name: Fetch IT category RSS feed
-        run: |
-          current_time=$(date +'%Y%m%d_%H%M')
-          sleep 3s
-          curl -o "${{ steps.setup.outputs.dir }}/it_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/it.xml
-      - name: Fetch science category RSS feed
-        run: |
-          current_time=$(date +'%Y%m%d_%H%M')
-          sleep 3s
-          curl -o "${{ steps.setup.outputs.dir }}/science_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/science.xml
-      - name: Fetch life category RSS feed
-        run: |
-          current_time=$(date +'%Y%m%d_%H%M')
-          sleep 3s
-          curl -o "${{ steps.setup.outputs.dir }}/life_${current_time}_$(date +'%H%M').xml" https://news.yahoo.co.jp/rss/categories/life.xml
-      - name: Show contents of xml-categories folder
-        run: ls -R xml-categories
+          git config user.name "Automated"
+          git config user.email "actions@users.noreply.github.com"
+          git add xml-files/
+          git commit -m "Update XML files"
+          git push

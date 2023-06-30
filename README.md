@@ -1,4 +1,4 @@
-# yahoo_categories
+# y_categories
 
 This code fetches all of the RSS feeds for Yahoo Japan's news categories.
 

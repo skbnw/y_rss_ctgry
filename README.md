@@ -1,9 +1,11 @@
 # yahoo_categories
 
 This code fetches all of the RSS feeds for Yahoo Japan's news categories.
+
 it runs on a schedule, every 0 and 30 minutes.
 
 ctgry_
+
 domestic;https://news.yahoo.co.jp/rss/categories/domestic.xml
 
 world;https://news.yahoo.co.jp/rss/categories/world.xml

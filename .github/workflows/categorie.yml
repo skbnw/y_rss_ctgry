@@ -13,7 +13,6 @@ jobs:
 
       - name: Fetch Yahoo Categories All RSS
         run: |
-          current_month=$(date +'%Y%m')
           current_week=$(date +'%Y%m_%W') # 1-51
           current_day_of_week=$(date +'%u') # 1 (Monday) to 7 (Sunday)
           day_offset=$(( 7 - current_day_of_week ))

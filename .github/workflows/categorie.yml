@@ -13,7 +13,8 @@ jobs:
 
       - name: Fetch Yahoo Categories All RSS
         run: |
-          current_week=$(date +'%Y%m_%W') # 1-51
+          current_month=$(date +'%Y%m')
+          current_week=$(date +'%Y_%W') # 1-51
           current_day_of_week=$(date +'%u') # 1 (Monday) to 7 (Sunday)
           day_offset=$(( 7 - current_day_of_week ))
           current_time=$(date +'%Y%m%d_%H%M')
@@ -45,6 +46,6 @@ jobs:
 
       - name: Commit and push XML files
         run: |
-          git add xml-categories/
+          git add $GITHUB_WORKSPACE/$folder_name/
           git commit -m "Update XML files"
           git push origin HEAD

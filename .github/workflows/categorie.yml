@@ -13,30 +13,31 @@ jobs:
 
       - name: Fetch Yahoo Categories All RSS
         run: |
-        　current_month=$(date +'%Y%m')
-          current_week=$(date +'%Y_%W') # 1-51
+          current_month=$(date +'%Y%m')
+          current_week=$(date +'%Y%m_%W') # 1-51
+          current_day_of_week=$(date +'%u') # 1 (Monday) to 7 (Sunday)
           day_offset=$(( 7 - current_day_of_week ))
           current_time=$(date +'%Y%m%d_%H%M')
           folder_name="xml-categories_${current_week}"
-          mkdir -p $folder_name
+          mkdir -p $GITHUB_WORKSPACE/$folder_name
           sleep 3
-          curl -o "xml-categories/ctgry_domestic_${current_time}.xml"  https://news.yahoo.co.jp/rss/categories/domestic.xml
+          curl -o "$GITHUB_WORKSPACE/$folder_name/ctgry_domestic_${current_time}.xml" https://news.yahoo.co.jp/rss/categories/domestic.xml
           sleep 3
-          curl -o "xml-categories/ctgry_world_${current_time}.xml" https://news.yahoo.co.jp/rss/categories/world.xml
+          curl -o "$GITHUB_WORKSPACE/$folder_name/ctgry_world_${current_time}.xml" https://news.yahoo.co.jp/rss/categories/world.xml
           sleep 3
-          curl -o "xml-categories/ctgry_business_${current_time}.xml" https://news.yahoo.co.jp/rss/categories/business.xml
+          curl -o "$GITHUB_WORKSPACE/$folder_name/ctgry_business_${current_time}.xml" https://news.yahoo.co.jp/rss/categories/business.xml
           sleep 3
-          curl -o "xml-categories/ctgry_entertainment_${current_time}.xml" https://news.yahoo.co.jp/rss/categories/entertainment.xml
+          curl -o "$GITHUB_WORKSPACE/$folder_name/ctgry_entertainment_${current_time}.xml" https://news.yahoo.co.jp/rss/categories/entertainment.xml
           sleep 3
-          curl -o "xml-categories/ctgry_sports_${current_time}.xml" https://news.yahoo.co.jp/rss/categories/sports.xml
+          curl -o "$GITHUB_WORKSPACE/$folder_name/ctgry_sports_${current_time}.xml" https://news.yahoo.co.jp/rss/categories/sports.xml
           sleep 3
-          curl -o "xml-categories/ctgry_it_${current_time}.xml" https://news.yahoo.co.jp/rss/categories/it.xml
+          curl -o "$GITHUB_WORKSPACE/$folder_name/ctgry_it_${current_time}.xml" https://news.yahoo.co.jp/rss/categories/it.xml
           sleep 3
-          curl -o "xml-categories/ctgry_science_${current_time}.xml" https://news.yahoo.co.jp/rss/categories/science.xml
+          curl -o "$GITHUB_WORKSPACE/$folder_name/ctgry_science_${current_time}.xml" https://news.yahoo.co.jp/rss/categories/science.xml
           sleep 3
-          curl -o "xml-categories/ctgry_life_${current_time}.xml" https://news.yahoo.co.jp/rss/categories/life.xml
+          curl -o "$GITHUB_WORKSPACE/$folder_name/ctgry_life_${current_time}.xml" https://news.yahoo.co.jp/rss/categories/life.xml
           sleep 3
-          curl -o "xml-categories/ctgry_local_${current_time}.xml" https://news.yahoo.co.jp/rss/categories/local.xml
+          curl -o "$GITHUB_WORKSPACE/$folder_name/ctgry_local_${current_time}.xml" https://news.yahoo.co.jp/rss/categories/local.xml
 
       - name: Configure Git user
         run: |

@@ -2,7 +2,7 @@ name: Fetch Yahoo Categories All RSS Feed
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Run at 0 minutes and 30 minutes　0,30
+    - cron: '* 3 * * *'  # Run atAt every minute past hour 3.
 
 jobs:
   fetch-rss:

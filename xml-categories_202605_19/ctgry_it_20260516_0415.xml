@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+  <channel>
+    <language>ja</language>
+    <copyright>© LY Corporation</copyright>
+    <pubDate>Sat, 16 May 2026 04:15:46 GMT</pubDate>
+    <title> IT - Yahoo!ニュース</title>
+    <link>https://news.yahoo.co.jp/categories/it?source=rss</link>
+    <description>Yahoo! JAPANのニュースに掲載されている記事の最新の見出しを提供しています。</description>
+    <image>
+      <title>Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/</link>
+      <url>https://s.yimg.jp/images/news/yjnews_s.gif</url>
+      <width>101</width>
+      <height>18</height>
+    </image>
+    <item>
+      <title>いちいちしゃがまなくても操作できる「足元タッチ扇風機」(BCN)</title>
+      <link>https://news.yahoo.co.jp/articles/3fc43cdc1c7e7930be7e133c4fd6fe367c639428?source=rss</link>
+      <pubDate>Sat, 16 May 2026 04:00:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00627786-bcn-000-5-view.jpg?exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/3fc43cdc1c7e7930be7e133c4fd6fe367c639428/comments</comments>
+      <description>　エディオンは5月19日に、プライベートブランド「e angle」から足元タッチ扇風機「ANG-FAF30-A」の販売を、エディオン全店および公式オンラインショップ「エディオンネットショップ」から開始</description>
+    </item>
+    <item>
+      <title>iPhoneの次期「iOS 27」、Siri刷新やプライバシー機能の強化が目玉か(Forbes JAPAN)</title>
+      <link>https://news.yahoo.co.jp/articles/b7d523fd2b2696ebf3a6d8627c3e2bfdfde15cc9?source=rss</link>
+      <pubDate>Sat, 16 May 2026 04:00:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00097510-forbes-000-1-view.jpg?pri=l&amp;w=450&amp;h=300&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/b7d523fd2b2696ebf3a6d8627c3e2bfdfde15cc9/comments</comments>
+      <description>アップルはiOS 26.5をリリースしたばかりだが、話題はすでにiOS 27へ移りつつある。iOS 27は、6月に開催されるアップルの世界開発者会議（WWDC）で発表される予定だ。
+
+iOS 27の目</description>
+    </item>
+    <item>
+      <title>Anthropicの「Mythos」は予想以上に急激な進化--英国機関が分析(ZDNET Japan)</title>
+      <link>https://news.yahoo.co.jp/articles/1ae7408f6b59b9ddfaf1b844d8ab1e884d3eddf3?source=rss</link>
+      <pubDate>Sat, 16 May 2026 03:19:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-35247602-zdnet-000-1-view.jpg?pri=l&amp;w=450&amp;h=337&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/1ae7408f6b59b9ddfaf1b844d8ab1e884d3eddf3/comments</comments>
+      <description>　AnthropicのAIモデル「Claude Mythos」は、一般公開するには強力すぎると同社が主張しているが、すでに新たな能力を獲得しているようだ。
+
+　英国人工知能セキュリティ研究所（AISI</description>
+    </item>
+    <item>
+      <title>11インチiPadが上位を独占　タブレット人気ランキングTOP10　2026/5/16(BCN)</title>
+      <link>https://news.yahoo.co.jp/articles/31222e1ad2ae49b611f380f11f16e674dae3dc64?source=rss</link>
+      <pubDate>Sat, 16 May 2026 03:00:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00626309-bcn-000-7-view.jpg?exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/31222e1ad2ae49b611f380f11f16e674dae3dc64/comments</comments>
+      <description>　「BCNランキング」2026年5月4日～10日の日次集計データによると、タブレット端末の実売台数ランキングは以下の通りとなった。
+
+1位　11インチiPad Wi-Fi 128GB ブルー
+MD4A</description>
+    </item>
+    <item>
+      <title>グーグルChromeに14件の「深刻」セキュリティ脆弱性、修正する方法も解説(Forbes JAPAN)</title>
+      <link>https://news.yahoo.co.jp/articles/8eb6706825f851aa27c9d0ff70fc4721d8fa6f78?source=rss</link>
+      <pubDate>Sat, 16 May 2026 03:00:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00097548-forbes-000-1-view.jpg?pri=l&amp;w=450&amp;h=300&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/8eb6706825f851aa27c9d0ff70fc4721d8fa6f78/comments</comments>
+      <description>グーグルは、Chromeウェブブラウザーについて、合計79件ものセキュリティ問題の詳細を公表した。影響する対象OSは、Android、Linux、macOS、Windowsの各版だ。
+
+■Chrome</description>
+    </item>
+    <item>
+      <title>40kgの重りも関係なし!? au TOM'Sが見せた衝撃の逆転劇でSUPER GT開幕2連勝！(アスキー)</title>
+      <link>https://news.yahoo.co.jp/articles/68b092266ed05502982ecb60aabf5a237e756800?source=rss</link>
+      <pubDate>Sat, 16 May 2026 03:00:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000002-ascii-000-1-view.jpg?pri=l&amp;w=450&amp;h=300&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/68b092266ed05502982ecb60aabf5a237e756800/comments</comments>
+      <description>SUPER GT第2戦富士3時間レースにて、au TOM'S GR Supra（坪井／山下）が優勝しました。40kgの重りを背負いつつ予選2番手を獲得し、決勝では絶妙なピット戦略と後半の猛追で14号車</description>
+    </item>
+    <item>
+      <title>Linuxカーネルに「ssh-keysign-pwn」の脆弱性発覚--直近4度目(ZDNET Japan)</title>
+      <link>https://news.yahoo.co.jp/articles/8c8303d3b7916809a11f0d7691b77bd6ff60e038?source=rss</link>
+      <pubDate>Sat, 16 May 2026 02:48:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-35247599-zdnet-000-1-view.jpg?pri=l&amp;w=450&amp;h=337&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/8c8303d3b7916809a11f0d7691b77bd6ff60e038/comments</comments>
+      <description>　「Linux」カーネルでまたも重大な脆弱（ぜいじゃく）性が発見された。この欠陥は「ssh-keysign-pwn」と呼ばれており、Linuxがここ数週間のうちに直面した4番目の注目すべきローカルセキ</description>
+    </item>
+    <item>
+      <title>ChatGPTに「家計・資産管理」機能　サブスク見直しや住宅ローン計算(Impress Watch)</title>
+      <link>https://news.yahoo.co.jp/articles/386ea8e0db8cd8d8452bc2242f7577d51c4011ec?source=rss</link>
+      <pubDate>Sat, 16 May 2026 02:14:06 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000003-impress-000-1-view.jpg?pri=l&amp;w=450&amp;h=253&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/386ea8e0db8cd8d8452bc2242f7577d51c4011ec/comments</comments>
+      <description>OpenAIは15日(米国時間)、「ChatGPT」による個人金融機能のプレビュー版を発表した。米国のProユーザー(月額200ドル)が対象で、金融口座を安全に連携しながら、お金の流れをダッシュボード</description>
+    </item>
+    <item>
+      <title>楽天モバイルが「Rakuten WiFi Pocket 5G」の販売を再開　同時申し込みで2990円(ITmedia Mobile)</title>
+      <link>https://news.yahoo.co.jp/articles/1c8788077ea998dece02c3406d14a9e4064b8a35?source=rss</link>
+      <pubDate>Sat, 16 May 2026 01:55:48 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000031-zdn_m-000-1-view.jpg?pri=l&amp;w=450&amp;h=204&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/1c8788077ea998dece02c3406d14a9e4064b8a35/comments</comments>
+      <description>　楽天モバイルが、5月15日にモバイルWi-Fiルーター「Rakuten WiFi Pocket 5G」の販売を再開した。
+
+　Rakuten WiFi Pocket 5Gと同時に申し込んだ回線で「R</description>
+    </item>
+    <item>
+      <title>手作りケーキで愛犬の誕生日をお祝いしたら……本日の主役とは思えない表情に「虚無」「笑ってwww」とSNSにっこり(BuzzFeed Japan)</title>
+      <link>https://news.yahoo.co.jp/articles/38594bb063a00540859e4fce0d7cc14e589cfc13?source=rss</link>
+      <pubDate>Sat, 16 May 2026 01:35:01 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-10056444-bfj-000-1-view.jpg?pri=l&amp;w=324&amp;h=450&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/38594bb063a00540859e4fce0d7cc14e589cfc13/comments</comments>
+      <description>「犬、主役だよ！！ ホールケーキだよ！！ 笑って！！！！」
+
+飼い主さんのそんな一言とともに、飼い主さん一家に誕生日を祝ってもらうワンコの写真がSNSに投稿されました。</description>
+    </item>
+    <item>
+      <title>【ワークマン】1500円の「ベーシックアンカーボディバッグ」　二気室構造で必需品がまとまる(ITmedia Mobile)</title>
+      <link>https://news.yahoo.co.jp/articles/8f3549ba6556902942f2f7c3e25c1f61a6fe46b5?source=rss</link>
+      <pubDate>Sat, 16 May 2026 01:05:09 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000028-zdn_m-000-1-view.jpg?pri=l&amp;w=447&amp;h=450&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/8f3549ba6556902942f2f7c3e25c1f61a6fe46b5/comments</comments>
+      <description>　ワークマンで「ベーシックアンカーボディバッグ」が販売されている。価格は1500円。
+
+　本製品は約4Lの容量で日常の必需品をまとめて収納でき、大きく開く二気室構造のため荷物が整理しやすい。内側には小</description>
+    </item>
+    <item>
+      <title>シャープ、対話AIキャラクター「ポケとも」に会話無制限プランを追加(ケータイ Watch)</title>
+      <link>https://news.yahoo.co.jp/articles/c7e62794a2ec6307ce18c7dd2b73d4122fa7bcc6?source=rss</link>
+      <pubDate>Sat, 16 May 2026 01:02:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000002-impktw-000-1-view.jpg?pri=l&amp;w=450&amp;h=300&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/c7e62794a2ec6307ce18c7dd2b73d4122fa7bcc6/comments</comments>
+      <description>　シャープは、対話AIキャラクター「ポケとも」の月額サービス「ココロプラン for ポケとも」に、「無制限」プランを追加すると発表した。提供開始は6月中旬以降の予定。価格は月額3300円。
+
+　「ポケ</description>
+    </item>
+    <item>
+      <title>制度強気と金利ショックの交差点──ビットコイン市場が試され始めた“静かな分岐点”【BitTrade Market Weekly】(NADA NEWS)</title>
+      <link>https://news.yahoo.co.jp/articles/dd2cd78cdf784c262c1887abe2a9cfd499f35660?source=rss</link>
+      <pubDate>Sat, 16 May 2026 01:00:30 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00368852-coindesk-000-1-view.jpg?pri=l&amp;w=450&amp;h=299&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/dd2cd78cdf784c262c1887abe2a9cfd499f35660/comments</comments>
+      <description>2026年5月15日付の日本経済新聞「中東混迷でビットコイン2割高　株・金上回る上昇率、無国籍性に評価」の記事の中で、筆者は、「主に米国の機関投資家や『クジラ』と呼ばれる大口投資家からの現物需要の強さ</description>
+    </item>
+    <item>
+      <title>「衛星放送」終焉の序章か――「BS4K」民放5社撤退のインパクト(ITmedia NEWS)</title>
+      <link>https://news.yahoo.co.jp/articles/d7fbead1b96a81b91d875c7ca68286c69990ca47?source=rss</link>
+      <pubDate>Sat, 16 May 2026 01:00:11 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000011-zdn_n-000-1-view.jpg?pri=l&amp;w=450&amp;h=235&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/d7fbead1b96a81b91d875c7ca68286c69990ca47/comments</comments>
+      <description>　4月15日、BS-TBSは2027年1月24日以降の衛星基幹放送業務の認定更新を行わず、「BS-TBS 4K」の放送を終了すると発表した。すでに先行して在京キー局系列のBS放送は、4局が撤退を表明し</description>
+    </item>
+    <item>
+      <title>IREN、4700億円超の転換社債発行を完了──AIクラウド基盤拡大へ資金確保(NADA NEWS)</title>
+      <link>https://news.yahoo.co.jp/articles/3a5387c063d35bff344845794ee32c3a7a71e512?source=rss</link>
+      <pubDate>Sat, 16 May 2026 00:30:02 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00368830-coindesk-000-1-view.jpg?pri=l&amp;w=450&amp;h=253&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/3a5387c063d35bff344845794ee32c3a7a71e512/comments</comments>
+      <description>ビットコイン（BTC）マイニング企業からAIクラウドインフラ企業への転換を進めるIREN（アイレン）は、30億ドル（約4700億円、1ドル＝155円換算）規模の転換社債発行を完了した。発表によると、今</description>
+    </item>
+    <item>
+      <title>動画生成AIのRunwayが日本進出、60億円超を投資　「日本は世界で最も洗練されたクリエイティブ産業持つ」とCEO(ITmedia NEWS)</title>
+      <link>https://news.yahoo.co.jp/articles/33cfbb5d68309ca6e4acd875329462395c5d2d25?source=rss</link>
+      <pubDate>Sat, 16 May 2026 00:00:11 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000020-zdn_n-000-1-view.jpg?pri=l&amp;w=450&amp;h=252&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/33cfbb5d68309ca6e4acd875329462395c5d2d25/comments</comments>
+      <description>　動画生成AIなどを開発する米Runwayは、日本市場に本格進出すると発表した。東京にオフィスを設置し、事業拡大のため4000万ドル（約63億2000万円、1ドル158円換算）を初期投資する。
+
+　R</description>
+    </item>
+    <item>
+      <title>Strategy、約2300億円相当の転換社債を割引価格で買い戻しへ──資金確保にビットコイン売却も検討(NADA NEWS)</title>
+      <link>https://news.yahoo.co.jp/articles/2c1b9d8196569ef05a692649ae2a8c364a6a0565?source=rss</link>
+      <pubDate>Sat, 16 May 2026 00:00:02 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00368828-coindesk-000-1-view.jpg?pri=l&amp;w=450&amp;h=300&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/2c1b9d8196569ef05a692649ae2a8c364a6a0565/comments</comments>
+      <description>ビットコイン（BTC）を大量保有するStrategy（ストラテジー）は、15億ドル（約2300億円、1ドル＝155円換算）相当の転換社債を割引価格で買い戻す計画を明らかにした。
+
+
+米証券取引委員会（</description>
+    </item>
+    <item>
+      <title>Galaxy A25 5GがPixel 10aを抜いて首位　Androidスマホ人気ランキングTOP10　2026/5/16(BCN)</title>
+      <link>https://news.yahoo.co.jp/articles/0cd5be168f075acbcb14ed3fe2f2024bfef2161d?source=rss</link>
+      <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00626319-bcn-000-5-view.jpg?pri=l&amp;w=450&amp;h=314&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/0cd5be168f075acbcb14ed3fe2f2024bfef2161d/comments</comments>
+      <description>　「BCNランキング」2026年5月4日～10日の日次集計データによると、Androidスマートフォン（スマホ）機種別の実売台数ランキングは以下の通りとなった。
+
+1位　Galaxy A25 5G S</description>
+    </item>
+    <item>
+      <title>グーグル、Android『メッセージ』アプリ刷新──RCS暗号化に対応(Forbes JAPAN)</title>
+      <link>https://news.yahoo.co.jp/articles/87599ce7a4a20c2a0f171b975c429b56690897c3?source=rss</link>
+      <pubDate>Sat, 16 May 2026 00:00:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00097433-forbes-000-1-view.jpg?pri=l&amp;w=450&amp;h=300&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/87599ce7a4a20c2a0f171b975c429b56690897c3/comments</comments>
+      <description>グーグルとアップルが、足並みをそろえる形で発表を行った。iPhone向けの新しいiOS 26.5はすでに公開され、長く待たれていたテキストメッセージの変更が解禁された。アップルのアップデートは世界中で</description>
+    </item>
+    <item>
+      <title>「通いまぁああああああす！！！！！」 極楽湯と『ぽこ あ ポケモン』のコラボイベント開催、SNSでは「温泉入って推し活できる」「絶対行こっと」の声(BuzzFeed Japan)</title>
+      <link>https://news.yahoo.co.jp/articles/e51afa5ffc8523cd6c419508da7734b03312d2d3?source=rss</link>
+      <pubDate>Fri, 15 May 2026 23:35:02 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-10056289-bfj-000-1-view.jpg?pri=l&amp;w=450&amp;h=253&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/e51afa5ffc8523cd6c419508da7734b03312d2d3/comments</comments>
+      <description>極楽湯がNintendo Switch 2 専用ソフト『ぽこ あ ポケモン』とコラボした、スペシャルイベント「ぽこ あ ポケモン 湯ったりらいふ」を開催することを発表しました。
+
+開催期間は2026年</description>
+    </item>
+    <item>
+      <title>「行ってらっしゃい」と「お帰り」で全然違う愛犬の様子にネット爆笑⇨「ぬいぐるみ感すごい」と反響(ハフポスト日本版)</title>
+      <link>https://news.yahoo.co.jp/articles/061c901c3acbfbbdd447545671817e4da93d34dc?source=rss</link>
+      <pubDate>Fri, 15 May 2026 23:30:30 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00010004-huffpost-000-1-view.jpg?pri=l&amp;w=450&amp;h=252&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/061c901c3acbfbbdd447545671817e4da93d34dc/comments</comments>
+      <description>「行ってらっしゃい」と「お帰り」の場面で様子が異なる愛犬の姿が、Xで話題になっています。
+
+投稿したのは、「こまち@彩」さん（@komachiaya_）。元気いっぱいのコーギー・こまちちゃんとの日常を</description>
+    </item>
+    <item>
+      <title>室温連動で「風」を変えて節電。このサーキュレーター賢いぞ…！(ギズモード・ジャパン)</title>
+      <link>https://news.yahoo.co.jp/articles/ea94804be70a7d31cde9754cd298446d042e804c?source=rss</link>
+      <pubDate>Fri, 15 May 2026 23:30:02 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000001-giz-000-1-view.jpg?pri=l&amp;w=450&amp;h=253&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/ea94804be70a7d31cde9754cd298446d042e804c/comments</comments>
+      <description>家電、どんどん賢くなってます。
+
+エアコンと合わせて使うことで節電効果高まるよ！と、最近はエアコン＋サーキュレーターの組み合わせもメジャー。体感としても、上手く空気が循環していて、部屋の室温が早く均一</description>
+    </item>
+    <item>
+      <title>トランプ一家、CoinbaseやMARA株を購入──政府倫理局への開示資料で判明(NADA NEWS)</title>
+      <link>https://news.yahoo.co.jp/articles/fdf75053f928d8f9cf0340bcbf73e69759b2ee8e?source=rss</link>
+      <pubDate>Fri, 15 May 2026 23:30:02 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00368825-coindesk-000-1-view.jpg?pri=l&amp;w=450&amp;h=300&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/fdf75053f928d8f9cf0340bcbf73e69759b2ee8e/comments</comments>
+      <description>米国のドナルド・トランプ大統領とその家族が、2026年第1四半期に暗号資産（仮想通貨）関連企業の株式を購入していたことが、新たな開示書類で明らかになった。
+
+
+米政府倫理局（OGE）に提出されたフォー</description>
+    </item>
+    <item>
+      <title>「Xperia」の新AI機能を紹介したポストが海外で「最高の反AI広告だ」と物議　ソニーの説明は？(ITmedia NEWS)</title>
+      <link>https://news.yahoo.co.jp/articles/c542404b4ef5861e969675b821b20941ed900677?source=rss</link>
+      <pubDate>Fri, 15 May 2026 23:20:08 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000015-zdn_n-000-1-view.jpg?pri=l&amp;w=450&amp;h=450&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/c542404b4ef5861e969675b821b20941ed900677/comments</comments>
+      <description>　ソニーのスマートフォン「Xperia」の公式グローバルXアカウント（@sonyxperia）による、ある投稿（ポスト）が「最高の反AI広告だ」などと物議を醸している。日本時間の5月14日午後6時過ぎ</description>
+    </item>
+    <item>
+      <title>最新作＆神ゲーが続々登場！　今売れている「PS5のソフト（ステルス）」おすすめ3選＆ランキング【2026年5月版】(Fav-Log by ITmedia)</title>
+      <link>https://news.yahoo.co.jp/articles/32f4479d513536a376497c7d7366eeca6209034b?source=rss</link>
+      <pubDate>Fri, 15 May 2026 23:15:11 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000007-it_favlog-000-1-view.jpg?pri=l&amp;w=450&amp;h=252&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/32f4479d513536a376497c7d7366eeca6209034b/comments</comments>
+      <description>　潜入や隠密の緊迫感が楽しめる「ステルスゲーム」。「PlayStation 5」（PS5）にも、リリースからわずか1カ月で約330万本を売り上げた話題作「Ghost of Yōtei」をはじめ、ステル</description>
+    </item>
+    <item>
+      <title>OpenAI、「ChatGPT」に個人向け資産管理機能　金融口座と連携(ITmedia NEWS)</title>
+      <link>https://news.yahoo.co.jp/articles/cee1f9d5f0cb2e6a8e3d0f9d5274d1cf5603f8ab?source=rss</link>
+      <pubDate>Fri, 15 May 2026 23:10:22 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000030-zdn_n-000-1-view.jpg?pri=l&amp;w=450&amp;h=273&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/cee1f9d5f0cb2e6a8e3d0f9d5274d1cf5603f8ab/comments</comments>
+      <description>　米OpenAIは5月15日（現地時間）、「ChatGPT」の新機能として、個人向け資産管理機能のプレビュー版を、米国のProプランユーザー向けにリリースしたと発表した。ユーザーは自身の金融口座をCh</description>
+    </item>
+    <item>
+      <title>愛猫をガードするために箱を置いたら…⇨まさかの展開に「箱はニャンコを惹きつける」の声(ハフポスト日本版)</title>
+      <link>https://news.yahoo.co.jp/articles/ba92d297041db8af3b1d24c4c25f93bee7a056c0?source=rss</link>
+      <pubDate>Fri, 15 May 2026 23:06:32 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00010003-huffpost-000-1-view.jpg?exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/ba92d297041db8af3b1d24c4c25f93bee7a056c0/comments</comments>
+      <description>猫をガードするために設置した箱の中を覗いたら…Xに投稿された思わず頬がゆるむ光景が話題になっています。
+
+投稿をしたのはXユーザーの「らいくん」（@raikun_0806_）さん。
+
+「ここだけは乗ら</description>
+    </item>
+    <item>
+      <title>TeamsやZoomのAI機能、「事故る」前に知っておきたい4つの指針(TechTargetジャパン)</title>
+      <link>https://news.yahoo.co.jp/articles/5382dc4a6c23774a2f5ebf223ebd69cd1780e6a9?source=rss</link>
+      <pubDate>Fri, 15 May 2026 23:00:12 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000026-zdn_tt-000-1-view.jpg?pri=l&amp;w=450&amp;h=235&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/5382dc4a6c23774a2f5ebf223ebd69cd1780e6a9/comments</comments>
+      <description>　現在、多くの企業が何らかの形式で「Zoom」や「Microsoft Teams」などのUCaaS（Unified Communications as a Service：社内コミュニケーションの円滑</description>
+    </item>
+    <item>
+      <title>Coinbase、USDコインのHyperliquidでの展開を主導(NADA NEWS)</title>
+      <link>https://news.yahoo.co.jp/articles/dd92cff56ccb063129b991bcd861d017d849ec2f?source=rss</link>
+      <pubDate>Fri, 15 May 2026 23:00:03 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00368809-coindesk-000-1-view.jpg?pri=l&amp;w=450&amp;h=300&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/dd92cff56ccb063129b991bcd861d017d849ec2f/comments</comments>
+      <description>Coinbase（Coinbase）は5月14日、分散型取引所（DEX）のHyperliquid（ハイパーリキッド）において、USDコイン（USDC）の公式トレジャリーデプロイヤー（準備金運用者）に就</description>
+    </item>
+    <item>
+      <title>「日本国債ショック」はビットコイン市場へ波及するのか──ビットコインとの意外な接点【エックスウィン】(NADA NEWS)</title>
+      <link>https://news.yahoo.co.jp/articles/a594357863293889cb670e9bc7e948459ad2c3b6?source=rss</link>
+      <pubDate>Fri, 15 May 2026 22:55:37 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00368845-coindesk-000-1-view.jpg?pri=l&amp;w=450&amp;h=299&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/a594357863293889cb670e9bc7e948459ad2c3b6/comments</comments>
+      <description>● 日本の長期金利上昇は、単なる「正常化」ではなく、財政・金融政策への信認低下を映し始めている可能性がある● 日銀が国債を買い続けても金利上昇が止まらず、「YCC後」の市場構造変化が鮮明化している● </description>
+    </item>
+    <item>
+      <title>ロングドライブで確信したアウディ「A6 アバントe-tron パフォーマンス」の圧倒的なBEVとしての完成度(＠ＤＩＭＥ)</title>
+      <link>https://news.yahoo.co.jp/articles/6454d493cc0bd637ab223419417fc620166932c4?source=rss</link>
+      <pubDate>Fri, 15 May 2026 22:40:24 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00010001-dime-000-1-view.jpg?pri=l&amp;w=450&amp;h=299&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/6454d493cc0bd637ab223419417fc620166932c4/comments</comments>
+      <description>これまで、航続走行距離の短さがネックとなっていた電気自動車（以下BEV）。しかし最近ではカタログスペックで満充電時の走行可能距離が700kmを超えるモデルが国産、輸入車問わず増えている。アウディは、2</description>
+    </item>
+    <item>
+      <title>子ザルのパンチくん、市川市消防局の“廃棄ホース”で大はしゃぎ⇨「楽しそう！」「素敵なリサイクル」の声(ハフポスト日本版)</title>
+      <link>https://news.yahoo.co.jp/articles/38177c53e195a5c559ce0969d3d99ad927d13695?source=rss</link>
+      <pubDate>Fri, 15 May 2026 22:30:45 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00010001-huffpost-000-1-view.jpg?pri=l&amp;w=450&amp;h=252&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/38177c53e195a5c559ce0969d3d99ad927d13695/comments</comments>
+      <description>市川市消防局公式が投稿した、廃棄ホースの再利用動画にパンチくんが登場し、話題になっています。
+
+市川市消防局は、5月14日にXを更新。
+
+「市川市消防局の役目を終えたホースたち パンチくんの遊び道具と</description>
+    </item>
+    <item>
+      <title>【今夜から】PASMOとSuica、5月16日夜から一部サービス停止　チャージや発売に影響(アスキー)</title>
+      <link>https://news.yahoo.co.jp/articles/03665f4c86bb7afb948b37b96f71ba2426ce74de?source=rss</link>
+      <pubDate>Fri, 15 May 2026 22:30:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000001-ascii-000-1-view.png?pri=l&amp;w=450&amp;h=300&amp;fmt=jpeg&amp;q=85&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/03665f4c86bb7afb948b37b96f71ba2426ce74de/comments</comments>
+      <description>PASMO協議会とパスモ社は2026年5月16日と5月17日に、PASMOエリアおよび首都圏と東北のSuica対応エリアで、PASMOとSuicaの一部サービスを停止する。</description>
+    </item>
+    <item>
+      <title>PC市場は「偽りの成長」？　“AIの影”が響く部材高騰と在庫切れの今後(TechTargetジャパン)</title>
+      <link>https://news.yahoo.co.jp/articles/d68cb51db2312d02eb2b243347e857fc626ff125?source=rss</link>
+      <pubDate>Fri, 15 May 2026 22:20:08 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000025-zdn_tt-000-1-view.jpg?pri=l&amp;w=450&amp;h=235&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/d68cb51db2312d02eb2b243347e857fc626ff125/comments</comments>
+      <description>　2026年第1四半期（1～3月）、世界のPC市場は前年同期（2025年1～3月）比3.2％増となる6480万台の出荷を記録した。製品別ではデスクトップPC部門が5.4％増と、最も顕著な伸びを示した。</description>
+    </item>
+    <item>
+      <title>社内データが丸見えに？　「Copilot」に潜む“過剰共有”のリスクと対策(TechTargetジャパン)</title>
+      <link>https://news.yahoo.co.jp/articles/cd640ed97f9712d975ac19db1d65b4f96184d63f?source=rss</link>
+      <pubDate>Fri, 15 May 2026 22:10:08 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000024-zdn_tt-000-1-view.jpg?pri=l&amp;w=450&amp;h=235&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/cd640ed97f9712d975ac19db1d65b4f96184d63f/comments</comments>
+      <description>　企業のAI（人工知能）技術の活用が急速に進む中、IT管理者は新たな課題に直面している。業務効率化という恩恵を享受する一方で、従業員が意図せずに機密情報をAIツールに入力してしまったり、必要以上の権限</description>
+    </item>
+    <item>
+      <title>JPYC、発行上限を「1日100万円」から「1回100万円」へ──Kaiaチェーン追加も(NADA NEWS)</title>
+      <link>https://news.yahoo.co.jp/articles/8594dd8a00150c47521d309743611cdd61db64bd?source=rss</link>
+      <pubDate>Fri, 15 May 2026 22:06:36 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00368833-coindesk-000-3-view.jpg?pri=l&amp;w=450&amp;h=300&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/8594dd8a00150c47521d309743611cdd61db64bd/comments</comments>
+      <description>JPYC社は15日、日本円ステーブルコインJPYCの発行・償還プラットフォーム「JPYC EX」のアップデートを実施したことを発表した。
+
+
+今回のアップデートでは、従来「1日あたり100万円」として</description>
+    </item>
+    <item>
+      <title>「いくぞ〜いくぞ〜」標的を確認して突撃するニャンコが話題に「慎重派さん」「高度な頭脳をお持ち」(BuzzFeed Japan)</title>
+      <link>https://news.yahoo.co.jp/articles/34aa685c3ecf81e5f3b8e371c134c5eb009b877e?source=rss</link>
+      <pubDate>Fri, 15 May 2026 22:05:01 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-10056420-bfj-000-1-view.jpg?pri=l&amp;w=450&amp;h=298&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/34aa685c3ecf81e5f3b8e371c134c5eb009b877e/comments</comments>
+      <description>「気付かれてないかな……？」
+
+標的を確認して突撃するニャンコがSNSで話題です。</description>
+    </item>
+    <item>
+      <title>あなたのパスワードは何分耐えられる？　解析速度上昇で「8文字パスワード」はほぼ無力に(ITmedia エンタープライズ)</title>
+      <link>https://news.yahoo.co.jp/articles/e5bd14fe99d53ab34eec9d0d5ce53b151dbf1c89?source=rss</link>
+      <pubDate>Fri, 15 May 2026 22:00:11 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000001-zdn_ep-000-1-view.jpg?pri=l&amp;w=450&amp;h=235&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/e5bd14fe99d53ab34eec9d0d5ce53b151dbf1c89/comments</comments>
+      <description>　Kasperskyは2026年5月7日（現地時間）、2023年から2026年にダークWebへ流出した2億3100万件のパスワードを分析した結果、約半数が1分未満、6割が1時間未満で解読可能だったと発</description>
+    </item>
+    <item>
+      <title>「iPhone 17e」と5万円台スマホ「Nothing Phone (4a)」を使い比べた。価格差で選べない理由(BUSINESS INSIDER JAPAN)</title>
+      <link>https://news.yahoo.co.jp/articles/ff4790758c21be9ab103f30132d61d395e856404?source=rss</link>
+      <pubDate>Fri, 15 May 2026 22:00:02 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000002-binsiderl-000-1-view.jpg?pri=l&amp;w=450&amp;h=253&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/ff4790758c21be9ab103f30132d61d395e856404/comments</comments>
+      <description>ハイエンドスマートフォンの価格上昇が続くなか、10万円を切るミドルレンジ端末の存在感が増している。SNS、動画視聴、決済、仕事の連絡といった日常的な用途であれば、ミドルレンジでも不満を感じにくい。
+
+</description>
+    </item>
+    <item>
+      <title>iPadがノートPCに！ タッチパッド内蔵ケース付きキーボードがサンワサプライから登場(BCN)</title>
+      <link>https://news.yahoo.co.jp/articles/1d52f41021fcd4bd16616aa423fdda6b5653f410?source=rss</link>
+      <pubDate>Fri, 15 May 2026 22:00:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00627781-bcn-000-5-view.jpg?exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/1d52f41021fcd4bd16616aa423fdda6b5653f410/comments</comments>
+      <description>　サンワサプライは5月14日、iPad A16・iPad（第10世代）向けのタッチパッド内蔵専用ケース付きBluetoothキーボード「SKB-BTIPAD5BK」を発売した。価格は1万5180円。
+</description>
+    </item>
+    <item>
+      <title>ソニーの新フラッグシップスマホ「Xperia 1 VIII」の実機に触れた(CNET Japan)</title>
+      <link>https://news.yahoo.co.jp/articles/6e539d5c39f7d6b39b9253548708a543694b8fb8?source=rss</link>
+      <pubDate>Fri, 15 May 2026 21:52:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-35247590-cnetj-000-1-view.jpg?pri=l&amp;w=450&amp;h=337&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/6e539d5c39f7d6b39b9253548708a543694b8fb8/comments</comments>
+      <description>　ソニーは5月13日、フラッグシップスマートフォン「Xperia 1 VIII（エクスペリア ワン マークエイト）」を発表した。6月11日に発売する。SIMフリーモデルの市場推定価格は構成により23万</description>
+    </item>
+    <item>
+      <title>「プロすぎるwww」アイロンビーズでつくったラーメンに驚きの声「食品サンプル作れそう」「本物に見えるレベル」(BuzzFeed Japan)</title>
+      <link>https://news.yahoo.co.jp/articles/338aedf01539e388b3e8ed84ec04715e6aa2710a?source=rss</link>
+      <pubDate>Fri, 15 May 2026 21:35:01 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-10056271-bfj-000-1-view.jpg?pri=l&amp;w=450&amp;h=298&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/338aedf01539e388b3e8ed84ec04715e6aa2710a/comments</comments>
+      <description>まるで本物！？ アイロンビーズで作ったラーメンが話題です。</description>
+    </item>
+    <item>
+      <title>プロボックスが仕事車から高音質マシンへ！ 純正感を崩さない3ウェイ化の妙［Pro Shop インストール・レビュー］by サウンドステーション クァンタム　後編(レスポンス)</title>
+      <link>https://news.yahoo.co.jp/articles/fdd01f6bd95c1263868ecea5825853302f3e5432?source=rss</link>
+      <pubDate>Fri, 15 May 2026 21:30:03 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000001-rps-000-1-view.jpg?pri=l&amp;w=450&amp;h=299&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/fdd01f6bd95c1263868ecea5825853302f3e5432/comments</comments>
+      <description>トヨタ『プロボックス』の使い勝手を保ったまま高音質化を目指した揚妻さん。クァンタムで3ウェイ化を施し仕事車に上質な音を宿した。
+
+◆プロボックスの音を変える鍵はフロントスピーカーの刷新
+仕事にも用いる</description>
+    </item>
+    <item>
+      <title>ソニーが「Xperia 1 VIII」で方針転換を図った理由　一般層に間口を広げるも、23万円超の価格がネックに(ITmedia Mobile)</title>
+      <link>https://news.yahoo.co.jp/articles/8b6a5227bf223af9ac554b55c5e3b4f8f50403b4?source=rss</link>
+      <pubDate>Fri, 15 May 2026 21:05:15 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000027-zdn_m-000-1-view.jpg?pri=l&amp;w=450&amp;h=299&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/8b6a5227bf223af9ac554b55c5e3b4f8f50403b4/comments</comments>
+      <description>　ソニーは、Xperia 1シリーズの最新モデルとなる「Xperia 1 VIII」を発表した。Xperia 1は、Xperiaのフラグシップに位置付けられる製品で、カメラ、映像、音楽にソニーの技術を</description>
+    </item>
+    <item>
+      <title>8TB SSDがまさかの50万円超え!?　連休明けのアキバで目立つストレージ高騰と注目の特価マザー(ITmedia PC USER)</title>
+      <link>https://news.yahoo.co.jp/articles/e8138c1a86fb15cc9b9b805e445bd3b5cd5d14f3?source=rss</link>
+      <pubDate>Fri, 15 May 2026 21:05:12 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000023-zdn_pc-000-1-view.jpg?pri=l&amp;w=450&amp;h=299&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/e8138c1a86fb15cc9b9b805e445bd3b5cd5d14f3/comments</comments>
+      <description>　大型連休明けのアキバで価格変動が激しいパーツを尋ねて回ったところ、どこのショップでも真っ先に挙げられたのはSSDだった。</description>
+    </item>
+    <item>
+      <title>社用携帯の契約キャリアはドコモが最多、スマホは「iPhone SE」が圧倒的人気　MMD調査(ITmedia Mobile)</title>
+      <link>https://news.yahoo.co.jp/articles/c0e72fc5e6cba59b59e1def44dfe0858458759da?source=rss</link>
+      <pubDate>Fri, 15 May 2026 21:05:08 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000022-zdn_m-000-1-view.jpg?pri=l&amp;w=450&amp;h=156&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/c0e72fc5e6cba59b59e1def44dfe0858458759da/comments</comments>
+      <description>　MMD研究所は、「2026年4月法人向け携帯電話の利用実態調査」の結果を5月15日に発表した。調査対象は20～69歳の企業に勤める経営者／正規雇用者または公務員の男女1万5000人で、調査期間は4月</description>
+    </item>
+    <item>
+      <title>新機能「エージェント ウィンドウ」が利用可能に ～「Visual Studio Code」v1.120が公開(窓の杜)</title>
+      <link>https://news.yahoo.co.jp/articles/5fe47c09aa7e5be80239713c43cce87a18d0eccb?source=rss</link>
+      <pubDate>Fri, 15 May 2026 18:41:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260515-00000008-impwfw-000-1-view.jpg?pri=l&amp;w=450&amp;h=337&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/5fe47c09aa7e5be80239713c43cce87a18d0eccb/comments</comments>
+      <description>　米Microsoftは5月13日（日本時間）、「Visual Studio Code」v1.120をリリースした。目玉は、新機能「エージェント ウィンドウ」が安定版でプレビューとして利用可能になった</description>
+    </item>
+    <item>
+      <title>「Google Workspace Studio」に「NotebookLM」が統合 ～自動化にノートブックの知識を活用可能に(窓の杜)</title>
+      <link>https://news.yahoo.co.jp/articles/fb3059f2e4f9fda4eaa64d24e31bfa0616fc2b1d?source=rss</link>
+      <pubDate>Fri, 15 May 2026 17:24:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260515-00000007-impwfw-000-1-view.jpg?pri=l&amp;w=450&amp;h=288&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/fb3059f2e4f9fda4eaa64d24e31bfa0616fc2b1d/comments</comments>
+      <description>　米Googleは5月12日（現地時間）、AIを活用したノート作成・リサーチ支援ツール「NotebookLM」を、業務自動化プラットフォーム「Google Workspace Studio」に統合した</description>
+    </item>
+    <item>
+      <title>「なろう・異世界系に偏重していた」　KADOKAWA、出版事業で大幅減益　構造改革急ぐ(ITmedia NEWS)</title>
+      <link>https://news.yahoo.co.jp/articles/fc9becb37a15ae6fad165965accc3e5c268dd949?source=rss</link>
+      <pubDate>Fri, 15 May 2026 17:01:44 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260516-00000029-zdn_n-000-1-view.jpg?pri=l&amp;w=450&amp;h=252&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/fc9becb37a15ae6fad165965accc3e5c268dd949/comments</comments>
+      <description>　「なろう・異世界系に偏重していた」――KADOKAWAが5月14日に発表した2026年3月期通期決算にて、連結営業利益が前年度比ほぼ半減となる89億円から40億円に減少した。特に主力の出版事業では、</description>
+    </item>
+    <item>
+      <title>日本周辺の海底を忠実に再現したマイクラのワールドを海上保安庁が公開(窓の杜)</title>
+      <link>https://news.yahoo.co.jp/articles/6346cc3788a4dc1a157d4e25e778b7a1248858df?source=rss</link>
+      <pubDate>Fri, 15 May 2026 15:51:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20260515-00000006-impwfw-000-1-view.jpg?pri=l&amp;w=450&amp;h=252&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/6346cc3788a4dc1a157d4e25e778b7a1248858df/comments</comments>
+      <description>　「やじうまの杜」では、ニュース・レビューにこだわらない幅広い話題をお伝えします。
+
+　日本の周りをそのまま再現した「Minecraft」（マインクラフト）ワールドが、海上保安庁のWebサイトで公開さ</description>
+    </item>
+  </channel>
+</rss>

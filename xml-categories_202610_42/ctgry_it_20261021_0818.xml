@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<rss version="2.0">
+  <channel>
+    <language>ja</language>
+    <copyright>© LY Corporation</copyright>
+    <pubDate>Wed, 21 Oct 2026 08:17:59 GMT</pubDate>
+    <title> IT - Yahoo!ニュース</title>
+    <link>https://news.yahoo.co.jp/categories/it?source=rss</link>
+    <description>Yahoo! JAPANのニュースに掲載されている記事の最新の見出しを提供しています。</description>
+    <image>
+      <title>Yahoo!ニュース</title>
+      <link>https://news.yahoo.co.jp/</link>
+      <url>https://s.yimg.jp/images/news/yjnews_s.gif</url>
+      <width>101</width>
+      <height>18</height>
+    </image>
+    <item>
+      <title>Apple、折りたたみiPhoneは「予約無いなら店頭で買えない」明言。直販は年内分が即終了、最短2027年1月(オタク総研)</title>
+      <link>https://news.yahoo.co.jp/articles/bb720500e84cd62ea12be46db03da508718f586d?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 08:16:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00171600-otakulab-000-1-view.jpg?pri=l&amp;w=450&amp;h=253&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/bb720500e84cd62ea12be46db03da508718f586d/comments</comments>
+      <description>Appleは日本の公式サイトで、10月23日（金）に発売する初の折りたたみiPhone「iPhone Duo」について、当面の間、Apple Store店頭では予約なしでの購入を受け付けないと明記した</description>
+    </item>
+    <item>
+      <title>TOKIUM、「TOKIUM契約管理」において外国語契約書の読み取り・入力機能を強化(クラウド Watch)</title>
+      <link>https://news.yahoo.co.jp/articles/8edf6033487fb6ef9bf1b37871fd52b813b62385?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 08:06:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000010-impclw-000-1-view.jpg?pri=l&amp;w=450&amp;h=247&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/8edf6033487fb6ef9bf1b37871fd52b813b62385/comments</comments>
+      <description>株式会社TOKIUMは20日、クラウド型契約管理サービス「TOKIUM契約管理」において、外国語の契約書の読み取り精度を向上させるアップデートを実施した。日付や取引先名をAIが原文から読み取り、日本語</description>
+    </item>
+    <item>
+      <title>無料メーラー「Thunderbird」v158.0.1が公開 ～パスワード平文送信の脆弱性などを修正(窓の杜)</title>
+      <link>https://news.yahoo.co.jp/articles/94a649e4517b4a49765369c7e96b0f4025c28b06?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 08:06:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000007-impwfw-000-1-view.jpg?pri=l&amp;w=450&amp;h=253&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/94a649e4517b4a49765369c7e96b0f4025c28b06/comments</comments>
+      <description>オープンソースのメールソフト「Thunderbird」の最新版、v158.0.1が10月20日にリリースされた。本アップデートはセキュリティ修正が中心のマイナーアップデートとなっている。 修正された脆</description>
+    </item>
+    <item>
+      <title>ブラックロックETFに6.6億ドル流入でビットコイン上昇、英銀ではクラウド障害【価格分析】(NADA NEWS)</title>
+      <link>https://news.yahoo.co.jp/articles/d3e048604aefb901f57b00c8ff19692fa1dac0b2?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 08:01:50 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00407195-coindesk-000-1-view.jpg?pri=l&amp;w=450&amp;h=295&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/d3e048604aefb901f57b00c8ff19692fa1dac0b2/comments</comments>
+      <description>Google Cloud障害で英国の銀行サービスが混乱、ビットコインは反発ビットコインは10月21日（水）、8万3000ドル付近まで回復した。前日の取引では8万1100ドル付近で推移していた。反発の前</description>
+    </item>
+    <item>
+      <title>イオン、グループ各社のWebサイトで不正アクセスを確認　個人情報流出の有無を調査中(アスキー)</title>
+      <link>https://news.yahoo.co.jp/articles/32a84919f3d40fdd91597df2043c1bb94d7f9cf3?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 08:00:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000016-ascii-000-1-view.png?pri=l&amp;w=450&amp;h=314&amp;fmt=jpeg&amp;q=85&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/32a84919f3d40fdd91597df2043c1bb94d7f9cf3/comments</comments>
+      <description>イオンは10月21日、グループ各社の一部Webサイトで第三者による不正アクセスを検知したと発表した。現在、安全確認と原因調査、復旧に向けた対応を進めているという。</description>
+    </item>
+    <item>
+      <title>マネックス証券、「証券総合取引口座」新規開設受付を一時停止。不正アクセス試行の形跡を確認し、予防的措置として(INTERNET Watch)</title>
+      <link>https://news.yahoo.co.jp/articles/db031e859892c11ef6e810ff2fab3fe59406f4a1?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 07:50:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000012-impiw-000-1-view.jpg?pri=l&amp;w=450&amp;h=337&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/db031e859892c11ef6e810ff2fab3fe59406f4a1/comments</comments>
+      <description>マネックス証券株式会社は10月20日、同社の口座開設システムのうち、外部委託先が管理するシステムに対して第三者がアクセスを試みた形跡が確認されたことを受けての予防的措置として、「証券総合取引口座」の新</description>
+    </item>
+    <item>
+      <title>漏えい公表ラッシュは「検知の向上」か「攻撃の増加」か　専門家に聞いた(ITmedia エンタープライズ)</title>
+      <link>https://news.yahoo.co.jp/articles/cb6bc1077b3e9bb163e9770798ea5d58ad5fd6f2?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 07:45:15 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000035-zdn_ep-000-1-view.jpg?exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/cb6bc1077b3e9bb163e9770798ea5d58ad5fd6f2/comments</comments>
+      <description>2026年9月中旬から、日本企業の情報漏えいやサイバー攻撃被害の公表が途切れなく続いている。カーシェアリングサービス「タイムズカー」では退会者を含む約660万件のアカウント情報が流出し、焼肉チェーン「</description>
+    </item>
+    <item>
+      <title>どうせ漏れるなら、自分から先にウソを漏らして対抗！　「個人情報先出しシステム」(窓の杜)</title>
+      <link>https://news.yahoo.co.jp/articles/bf6e65ab26141485ec42285730ae8e0b2cff85c2?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 07:45:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000006-impwfw-000-1-view.jpg?pri=l&amp;w=450&amp;h=337&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/bf6e65ab26141485ec42285730ae8e0b2cff85c2/comments</comments>
+      <description>「やじうまの杜」では、ニュース・レビューにこだわらない幅広い話題をお伝えします。【画像】ニックネームを入力すると『個人情報照会票』が表示される ここのところ、毎日のように情報漏洩や不正アクセスのニュー</description>
+    </item>
+    <item>
+      <title>ポケポケ、拡張パック「デュアルフュージョン」登場　御三家ポケモンが登場するスペシャルパックも(ITmedia Mobile)</title>
+      <link>https://news.yahoo.co.jp/articles/423d8766d47fc709945282687803635fb246441e?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 07:43:25 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000050-zdn_m-000-1-view.jpg?pri=l&amp;w=450&amp;h=252&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/423d8766d47fc709945282687803635fb246441e/comments</comments>
+      <description>ポケモンは、共同開発したポケモンカードのコレクションアプリ「Pokemon Trading Card Game Pocket（ポケポケ）」へ拡張パック「デュアルフュージョン」を10月29日10時に追加</description>
+    </item>
+    <item>
+      <title>「政府機関向けGemini」登場　米国政府・自治体と共同開発　データをプライベートクラウドに保持(ITmedia NEWS)</title>
+      <link>https://news.yahoo.co.jp/articles/b2e4edd3b8d0cb288ffaa0c2e7e9c63d543c5687?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 07:43:03 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000049-zdn_n-000-1-view.jpg?pri=l&amp;w=450&amp;h=235&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/b2e4edd3b8d0cb288ffaa0c2e7e9c63d543c5687/comments</comments>
+      <description>米Google Cloudは10月20日（現地時間、以下同）、AIエージェントツール「Gemini agent」を米国の政府機関向けに調整した「Gemini for government servic</description>
+    </item>
+    <item>
+      <title>EVもガソリン車並みの速さで「満タン」に--99秒で電池交換、ファーウェイとCATLが自動化で提携(CNET Japan)</title>
+      <link>https://news.yahoo.co.jp/articles/38a232f14b9e46d0e39a61acf58c1c1cf2334ad3?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 07:43:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-35253820-cnetj-000-1-view.jpg?pri=l&amp;w=450&amp;h=337&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/38a232f14b9e46d0e39a61acf58c1c1cf2334ad3/comments</comments>
+      <description>中国では、電気自動車（EV）の電池を充電済みのものに丸ごと取り替える「電池交換」サービスが広がっている。この仕組みをさらに便利にしようと、ファーウェイの自動車向け技術を手がける引望、電池大手CATL、</description>
+    </item>
+    <item>
+      <title>時事通信、越境ECなどの物語運輸に出資。情報発信や商品販売にとどまらない「文化流通」の仕組みを構築めざす(ネットショップ担当者フォーラム)</title>
+      <link>https://news.yahoo.co.jp/articles/62fb83715790cc3add3ef16af5d9ca070f871e81?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 07:31:09 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000004-netshop-000-1-view.jpg?pri=l&amp;w=450&amp;h=219&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/62fb83715790cc3add3ef16af5d9ca070f871e81/comments</comments>
+      <description>時事通信社と、伝統工芸品や地方の特産品の越境ECなどを手がける物語運輸は10月20日、日本の伝統文化や地域文化、伝統産業、ものづくりの価値を国内外に届けることを目的に、資本業務提携したと発表した。</description>
+    </item>
+    <item>
+      <title>au PAY「使えるお店」、個人事業主約46万人分の情報を無断掲載か　個人情報保護法抵触のおそれも(ITmedia NEWS)</title>
+      <link>https://news.yahoo.co.jp/articles/17b72be101450aae94364aa7185d05bf1a2d767e?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 07:30:16 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000047-zdn_n-000-1-view.jpg?pri=l&amp;w=450&amp;h=299&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/17b72be101450aae94364aa7185d05bf1a2d767e/comments</comments>
+      <description>KDDIは10月20日、スマホ決済「au PAY」が使える店舗を地図上で表示・検索できるWebサイト「au PAYの使えるお店」に、一部加盟店の情報を、本人が掲載を明確に認識しないまま載せていた可能性</description>
+    </item>
+    <item>
+      <title>JPYC、韓国系SBJ銀行・LINE NEXTと提携──銀行口座からのチャージ機能を検討(NADA NEWS)</title>
+      <link>https://news.yahoo.co.jp/articles/7bf806b5f16ae985a5d22140c5a0a6b8e58c1fea?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 07:30:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00407185-coindesk-000-1-view.jpg?pri=l&amp;w=450&amp;h=300&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/7bf806b5f16ae985a5d22140c5a0a6b8e58c1fea/comments</comments>
+      <description>日本円建てステーブルコイン「JPYC」を発行するJPYC社は10月21日、韓国・新韓銀行の日本法人であるSBJ銀行およびLINE NEXT（ラインネクスト）と業務提携に関する覚書を締結したと発表した。</description>
+    </item>
+    <item>
+      <title>セゾンテクノロジー、「HULFT」ファイル連携時のデータ完全性検証でPQCに対応(BCN)</title>
+      <link>https://news.yahoo.co.jp/articles/37de8ef7a097564142a52eaa8ae2f39af6f662cd?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 07:26:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&amp;w=450&amp;h=450&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/37de8ef7a097564142a52eaa8ae2f39af6f662cd/comments</comments>
+      <description>セゾンテクノロジーは10月21日、ファイル連携ミドルウェア「HULFT」のファイル連携時のデータ完全性の検証機能を2027年6月に予定するレベルアップで強化し、耐量子計算機暗号（PQC）に対応すると発</description>
+    </item>
+    <item>
+      <title>高強度アルミ合金の「UNICASE×ZERO HALLIBURTON」iPhone 18 Proケース　ロゴ刻印＆限定パッケージで提供(ITmedia Mobile)</title>
+      <link>https://news.yahoo.co.jp/articles/d8ff9763e9d33dec60f64c4792083aae0676d05d?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 07:21:27 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000046-zdn_m-000-1-view.jpg?pri=l&amp;w=450&amp;h=299&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/d8ff9763e9d33dec60f64c4792083aae0676d05d/comments</comments>
+      <description>ティーガイアは、10月21日にスマホアクセサリーブランド「UNICASE」からiPhone向け保護ケース「ZERO HALLIBURTON Heritage Line Case for iPhone </description>
+    </item>
+    <item>
+      <title>不正アクセス急増は“SaaS離れ”を招くか？　露呈したもう1つの「SaaS is Dead」リスク(ITmedia NEWS)</title>
+      <link>https://news.yahoo.co.jp/articles/8129e00c4ddef0a4535edec6cb60c4c587d9fc64?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 07:09:25 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000045-zdn_n-000-1-view.jpg?pri=l&amp;w=450&amp;h=299&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/8129e00c4ddef0a4535edec6cb60c4c587d9fc64/comments</comments>
+      <description>相次ぐ不正アクセスと情報漏えい。いわゆる社内システムへの攻撃も目立つ一方、SaaS企業が提供する外部サービスが攻撃された結果、ユーザー企業の情報が漏えいする事案も少なくない。例えばLINEヤフーやパナ</description>
+    </item>
+    <item>
+      <title>AIレコーダー「Memoket Gem」発売、アンカー出身者たちが描く「会話をAIの記憶に」するビジョン(ケータイ Watch)</title>
+      <link>https://news.yahoo.co.jp/articles/882082895068f7f0a9a84df9db6c257675d10d37?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 07:06:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000006-impktw-000-1-view.jpg?pri=l&amp;w=450&amp;h=300&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/882082895068f7f0a9a84df9db6c257675d10d37/comments</comments>
+      <description>新製品の投入が相次ぐAIボイスレコーダー市場に、米国に拠点を置くMemoket（メモケット）が参入した。同社は、軽量コンパクトで身に着けやすいAIボイスレコーダー「Memoket Gem」（メモケット</description>
+    </item>
+    <item>
+      <title>実家に眠るVHSとCD、帰省中にデジタルで残すには？　PC不要のビデオキャプチャーとCDレコーダーが使える！(ITmedia PC USER)</title>
+      <link>https://news.yahoo.co.jp/articles/4be4f3f47269c26c32978c42dc8d72f89f3d16e1?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 07:05:18 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000044-zdn_pc-000-1-view.jpg?pri=l&amp;w=450&amp;h=440&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/4be4f3f47269c26c32978c42dc8d72f89f3d16e1/comments</comments>
+      <description>年末年始に実家へ帰省すると、押し入れや棚に眠るビデオテープや音楽CDを目にすることがある。子どもの頃の運動会や家族旅行を撮ったテープ、よく聴いていたアルバムなど、手元に残しておきたいものも多いはずだ。</description>
+    </item>
+    <item>
+      <title>テラスカイ、「mitoco Buddy」をアップデート　組織ごとのAIモデル最適配置やローカルファイル直接保存に対応(クラウド Watch)</title>
+      <link>https://news.yahoo.co.jp/articles/db170d19c6e1812adead82545019ec7431ad7354?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 07:04:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000009-impclw-000-1-view.jpg?pri=l&amp;w=450&amp;h=408&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/db170d19c6e1812adead82545019ec7431ad7354/comments</comments>
+      <description>株式会社テラスカイは20日、MCP（Model Context Protocol）対応のAIプラットフォーム「mitoco Buddy」をバージョンアップすると発表した。【この記事に関する別の画像を見</description>
+    </item>
+    <item>
+      <title>誤検知・ツール乱立・人員不足によるアラート疲れ。「現場が疲弊しない」を前提にしたEC不正対策の組み立て方(ネットショップ担当者フォーラム)</title>
+      <link>https://news.yahoo.co.jp/articles/1c08355604e0bddc86c3a7c1439371b695ba450a?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 07:01:02 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000003-netshop-000-1-view.jpg?pri=l&amp;w=450&amp;h=236&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/1c08355604e0bddc86c3a7c1439371b695ba450a/comments</comments>
+      <description>「不正検知のアラートが今日もあがっている。ただ、誰も驚かなくなった」。そんな状態になっているEC事業者は、決して少なくありません。不正対策は、導入の是非を議論する段階を過ぎました。「EMV 3-Dセキ</description>
+    </item>
+    <item>
+      <title>「ファイナルファンタジーXIV」のゲームプレーや配信がさらに楽しめる、ローランドからゲーミング・オーディオミキサー新製品(BCN)</title>
+      <link>https://news.yahoo.co.jp/articles/7d41d67a8228e4a7fc17591a5e511167953613fc?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00669880-bcn-000-5-view.jpg?pri=l&amp;w=450&amp;h=328&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/7d41d67a8228e4a7fc17591a5e511167953613fc/comments</comments>
+      <description>ローランドは、スクウェア・エニックスの人気オンラインRPG「ファイナルファンタジーXIV」とコラボレーションしたゲーミング・オーディオミキサー「BRIDGE CAST FINAL FANTASY XI</description>
+    </item>
+    <item>
+      <title>日本企業のAI利用、導入の7割以上が現場主導--約25％は「費用を個人負担」(ZDNET Japan)</title>
+      <link>https://news.yahoo.co.jp/articles/6769aa9c8fd161ae0722231cd76852608796c540?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-35253829-zdnet-000-1-view.jpg?pri=l&amp;w=450&amp;h=337&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/6769aa9c8fd161ae0722231cd76852608796c540/comments</comments>
+      <description>マネーフォワードは10月21日、「企業のAI利用・支出管理に関する実態調査」の結果を発表した。それによれば、日本企業のAIの導入や利用は大半が現場主導で、予算超過などコストの課題感が高まっていることも</description>
+    </item>
+    <item>
+      <title>マウントゴックス、4年連続で債権者への弁済期限を延長(NADA NEWS)</title>
+      <link>https://news.yahoo.co.jp/articles/e58baa13afba00dc0ff4dd561fe3c02642686159?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 07:00:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00407174-coindesk-000-1-view.jpg?pri=l&amp;w=450&amp;h=300&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/e58baa13afba00dc0ff4dd561fe3c02642686159/comments</comments>
+      <description>暗号資産（仮想通貨）取引所Mt.Gox（マウントゴックス）の再生管財人は10月16日、債権者への弁済期限を1年延長したと発表した。裁判所の許可を得て、2026年10月31日から2027年10月31日（</description>
+    </item>
+    <item>
+      <title>アイオー、テレビ録画用HDD計4シリーズの新モデルを発売(ITmedia PC USER)</title>
+      <link>https://news.yahoo.co.jp/articles/3b2d6f666d570e3a81bd47ad0424e74b38bee687?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:58:56 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000043-zdn_pc-000-1-view.jpg?pri=l&amp;w=450&amp;h=337&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/3b2d6f666d570e3a81bd47ad0424e74b38bee687/comments</comments>
+      <description>アイオーデータは10月21日、テレビ録画用となるUSB外付けHDDのラインアップに新型番モデル4シリーズを追加、11月上旬に出荷を開始する。【画像】こちらはUSBバスパワー動作対応モデルの「AVHD-</description>
+    </item>
+    <item>
+      <title>AIが会社全体へ侵入を試みる「不正アクセス抜き打ちテスト byGMO」　一律98万円(Impress Watch)</title>
+      <link>https://news.yahoo.co.jp/articles/b4e38d879a77a6124324b53da196b7a86ed1610a?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:57:30 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000012-impress-000-1-view.jpg?pri=l&amp;w=450&amp;h=236&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/b4e38d879a77a6124324b53da196b7a86ed1610a/comments</comments>
+      <description>GMOインターネットグループで、サイバーセキュリティ関連事業を展開するGMO Flatt Securityは、10月21日からAI主導のペネトレーションテストサービス「不正アクセス抜き打ちテスト by</description>
+    </item>
+    <item>
+      <title>【ヤフコメで話題】「AI企業の巨額赤字と投資回収の不透明さ」「生成AIバブル崩壊リスクへの懸念」 - AI業界の持続可能性を巡る議論(Yahoo!ニュース オリジナル THE PAGE)</title>
+      <link>https://news.yahoo.co.jp/articles/46e74b4cd92abfa5351ee8090680c3d7b13bbc09?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:52:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&amp;w=450&amp;h=450&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/46e74b4cd92abfa5351ee8090680c3d7b13bbc09/comments</comments>
+      <description>AI企業の巨額赤字や投資回収の見通しについて、Yahoo!ニュースのコメント欄で話題になっています。コメントでは、生成AIを中心とした企業が数兆円規模の赤字を計上している現状や、売上の急成長と同時に設</description>
+    </item>
+    <item>
+      <title>AIが環境目標を破壊する--グーグルやアマゾンらによるデータセンター急増の代償(CNET Japan)</title>
+      <link>https://news.yahoo.co.jp/articles/055f31e6f190675b20aa90e661ad27a8f6735aed?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:50:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-35253823-cnetj-000-2-view.jpg?pri=l&amp;w=450&amp;h=337&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/055f31e6f190675b20aa90e661ad27a8f6735aed/comments</comments>
+      <description>米バージニア州アッシュバーンからアイルランドのサウスダブリンまで、ジャーナリストのParis Marx氏が訪ねたデータセンターは、どれも驚くほどよく似ていた。大規模な工業施設に空調設備の大きな音が響き</description>
+    </item>
+    <item>
+      <title>Google Chromeに350件以上の脆弱性　最新版にアップデートを(アスキー)</title>
+      <link>https://news.yahoo.co.jp/articles/033ba2b6f2dc1e9906dc510781c7eac12637263d?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:50:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000014-ascii-000-1-view.png?pri=l&amp;w=450&amp;h=300&amp;fmt=jpeg&amp;q=85&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/033ba2b6f2dc1e9906dc510781c7eac12637263d/comments</comments>
+      <description>グーグルは10月20日、デスクトップおよびAndroid版「Google Chrome」のアップデートを公開。深刻度「重大」を含む353件の脆弱性に対処した。</description>
+    </item>
+    <item>
+      <title>日立、AIデータセンター向けのGPU冷却用コールドプレート開発 冷却電力30％減の見込み(ビジネス＋IT)</title>
+      <link>https://news.yahoo.co.jp/articles/3243281fe326e9e28df883cd4f9c51b1b40e3089?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:45:06 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00187648-biz_plus-000-1-view.jpg?pri=l&amp;w=450&amp;h=202&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/3243281fe326e9e28df883cd4f9c51b1b40e3089/comments</comments>
+      <description>日立製作所は10月21日、データセンターの電力消費量を抑えるGPU冷却用コールドプレートを開発したと発表した。冷却液を発熱部へ流してU字に折り返す「U字トンネル流路」を採用し、冷却に必要な電力を30％</description>
+    </item>
+    <item>
+      <title>ファーウェイ、「HUAWEI FreeBuds Neo」発表　映像やゲームに最適な小型フラッグシップ(ケータイ Watch)</title>
+      <link>https://news.yahoo.co.jp/articles/27daed86db996ded2356edaa519f4332db0d0cc7?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:45:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000005-impktw-000-1-view.jpg?pri=l&amp;w=450&amp;h=300&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/27daed86db996ded2356edaa519f4332db0d0cc7/comments</comments>
+      <description>ファーウェイは、完全ワイヤレスイヤホン「HUAWEI FreeBuds Neo」を発売した。近未来的なデザインと軽量な装着感に加え、FPSゲーム専用サウンドや独立型空間オーディオを備え、音楽からゲーム</description>
+    </item>
+    <item>
+      <title>ファーウェイ、最大21日間駆動の「HUAWEI WATCH GT 7／GT 7 Pro」発表　ゴルフ・スキー機能を大幅進化(ケータイ Watch)</title>
+      <link>https://news.yahoo.co.jp/articles/e8237478dafb7a8a13fd5dcdd3fc3b1ce86d9865?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:45:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000004-impktw-000-1-view.jpg?pri=l&amp;w=450&amp;h=300&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/e8237478dafb7a8a13fd5dcdd3fc3b1ce86d9865/comments</comments>
+      <description>ファーウェイは21日、スマートウォッチ「HUAWEI WATCH GT 7」「HUAWEI WATCH GT 7 Pro」を発表した。129日に発売される。八角形デザインを継承しつつ、高低差補正対応の</description>
+    </item>
+    <item>
+      <title>ファーウェイ、薄型・軽量化された「HUAWEI WATCH 6」発表　X-TAPセンサーや2台同時接続でスマート体験を強化(ケータイ Watch)</title>
+      <link>https://news.yahoo.co.jp/articles/603a195f725e3491969cbe2a721a771fc55902f6?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:45:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000003-impktw-000-1-view.jpg?pri=l&amp;w=450&amp;h=300&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/603a195f725e3491969cbe2a721a771fc55902f6/comments</comments>
+      <description>ファーウェイは21日、最新スマートウォッチ「HUAWEI WATCH 6」を発表した。11月5日に発売する。従来モデルから薄型・軽量化を果たし、側面に搭載されたX-TAPセンサーによる約60秒のワンタ</description>
+    </item>
+    <item>
+      <title>レノボのタブレットで火災事故　バッテリーの異常発熱が原因か(アスキー)</title>
+      <link>https://news.yahoo.co.jp/articles/dcc12ddc93105d77f7cbec19e2ef46b82ab84f7d?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:40:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000013-ascii-000-1-view.png?pri=l&amp;w=450&amp;h=319&amp;fmt=jpeg&amp;q=85&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/dcc12ddc93105d77f7cbec19e2ef46b82ab84f7d/comments</comments>
+      <description>消費者庁は10月20日、レノボ・ジャパンのAndroidタブレット「Lenovo Tab M8（3rd Gen）」の本体および周辺を焼損する火災が、8月に兵庫県で発生したことを公表した。</description>
+    </item>
+    <item>
+      <title>ファーウェイ、充電1回で3週間動くスマートウォッチ刷新、新モデル「GT 7」国内発表(CNET Japan)</title>
+      <link>https://news.yahoo.co.jp/articles/ae001421a873db4fd263dbbad30f618689ab5254?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:37:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-35253667-cnetj-000-2-view.jpg?pri=l&amp;w=450&amp;h=337&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/ae001421a873db4fd263dbbad30f618689ab5254/comments</comments>
+      <description>ファーウェイ・ジャパンは10月21日、スマートウォッチ「HUAWEI WATCH GT 7 Pro」「HUAWEI WATCH GT 7」「HUAWEI WATCH 6」と、完全ワイヤレスイヤホン「H</description>
+    </item>
+    <item>
+      <title>「あ、実は開発者なんです」のひとことにゲームファン騒然⇒「そのムーブしてみたい」「返しが最強過ぎる」(ハフポスト日本版)</title>
+      <link>https://news.yahoo.co.jp/articles/6b088dba37015541fc4ddedd4aaf54aa11e9a112?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:36:41 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00010022-huffpost-000-1-view.jpg?exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/6b088dba37015541fc4ddedd4aaf54aa11e9a112/comments</comments>
+      <description>ゲーム開発者と店員のやりとりが、Xで話題です。投稿したのは、人気ゲーム『都市伝説解体センター』の開発者・MOCHIKINモチキン（@mochiking_z）さん。【画像】これは胸熱…！一度は言ってみた</description>
+    </item>
+    <item>
+      <title>ソフトバンク、一宮西病院の医療DX支援でスマートフォンや位置情報サービスを提供(BCN)</title>
+      <link>https://news.yahoo.co.jp/articles/2aa7d88d45796e7663de103245622486259f8215?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:32:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&amp;w=450&amp;h=450&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/2aa7d88d45796e7663de103245622486259f8215/comments</comments>
+      <description>ソフトバンクは、杏嶺会 一宮西病院の医療DXを支援するため、スマートフォン約1100台を納入するとともに、Microsoft 365とMicrosoft Intuneを活用した業務・端末管理環境を構築</description>
+    </item>
+    <item>
+      <title>NeweggがGoogle上の会話内購入に対応、チャット画面を離れずに購入→Gemini・Google検索でGoogle Pay決済に対応(ネットショップ担当者フォーラム)</title>
+      <link>https://news.yahoo.co.jp/articles/a91342d2935a32115c64eb8999cdcfa8140e8461?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:31:10 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000002-netshop-000-1-view.jpg?pri=l&amp;w=450&amp;h=255&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/a91342d2935a32115c64eb8999cdcfa8140e8461/comments</comments>
+      <description>米国でPCパーツや家電に特化したECサイトを展開するNeweggは10月8日、「Gemini」アプリ内とAI Modeを含むGoogle検索で、商品検索から購入までをチャット画面内で完結できる機能に対</description>
+    </item>
+    <item>
+      <title>ハクバ、ジンバルカメラ「Insta360 Luna Pro」専用液晶保護フィルム(BCN)</title>
+      <link>https://news.yahoo.co.jp/articles/dcc51897488544192d5fa241b735d020a7373d79?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:30:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00669886-bcn-000-5-view.jpg?pri=l&amp;w=450&amp;h=312&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/dcc51897488544192d5fa241b735d020a7373d79/comments</comments>
+      <description>ハクバ写真産業（ハクバ）は10月下旬に、中国Insta360のジンバルカメラ「Insta360 Luna Pro」に対応した液晶保護フィルム「Insta360 Luna Pro ／ Ultra 専用 </description>
+    </item>
+    <item>
+      <title>日立、データセンターの電力消費を減らす冷却用部品を開発(ZDNET Japan)</title>
+      <link>https://news.yahoo.co.jp/articles/b184a8bcbe52c83115efff4e73d21a479e8ae2d0?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:26:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-35253826-zdnet-000-1-view.jpg?pri=l&amp;w=450&amp;h=337&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/b184a8bcbe52c83115efff4e73d21a479e8ae2d0/comments</comments>
+      <description>日立製作所は10月21日、データセンターの電力消費量を低減するGPU冷却用コールドプレートを開発したと発表した。電力を30％削減できる可能性があるという。 同社によると、AIを処理するデータセンターで</description>
+    </item>
+    <item>
+      <title>PCA、公益法人向け「新公益法人会計基準」解説セミナーを開催(BCN)</title>
+      <link>https://news.yahoo.co.jp/articles/2de84646c51795383f820c0865ebcf68aed31dd3?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:25:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&amp;w=450&amp;h=450&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/2de84646c51795383f820c0865ebcf68aed31dd3/comments</comments>
+      <description>ピー・シー・エー（PCA）は11月24日、公認会計士の松前江里子氏を講師に迎え、新公益法人会計基準への移行実務を解説するオンラインセミナー「令和6年公益法人会計基準改正の全体像と『経理作業ロードマップ</description>
+    </item>
+    <item>
+      <title>DIS、年次イベント「DISわぁるど in 京都」を開催　200社以上が出展(BCN)</title>
+      <link>https://news.yahoo.co.jp/articles/c01942524256a0b441b1126b6bbbdc1304a74ce2?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:22:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00217874-bcn-000-2-view.jpg?exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/c01942524256a0b441b1126b6bbbdc1304a74ce2/comments</comments>
+      <description>ダイワボウ情報システム（DIS）は年次イベント「DISわぁるど in 京都」を10月21日から22日まで、京都市勧業館みやこめっせで開催している。国内外の約210社のベンダーが参加し、最新のテクノロジ</description>
+    </item>
+    <item>
+      <title>UIとUXってどう違うか、説明できる？(Web担当者Forum)</title>
+      <link>https://news.yahoo.co.jp/articles/234372dd58e5a4104ff868ff7f277dbae2089b65?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:19:18 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/default.jpg?pri=l&amp;w=450&amp;h=450&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/234372dd58e5a4104ff868ff7f277dbae2089b65/comments</comments>
+      <description>「UI/UX」とセットで言われることの多いUIとUX。デザインチームとやり取りするなかで、「UIとUXって、具体的にどう違うの？」と疑問に思ったことはありませんか？どちらもWebサイトやアプリの制作・</description>
+    </item>
+    <item>
+      <title>HUAWEI、2台のスマホとペアリングできるスマートウォッチ(PC Watch)</title>
+      <link>https://news.yahoo.co.jp/articles/ba446a9da36420750e49fa2f1550d9b6959716b8?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:15:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000003-imppcw-000-1-view.jpg?pri=l&amp;w=450&amp;h=337&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/ba446a9da36420750e49fa2f1550d9b6959716b8/comments</comments>
+      <description>ファーウェイ・ジャパンは10月21日、「HUAWEI WATCH GT 7 Pro」、「HUAWEI WATCH GT 7」、「HUAWEI WATCH 6」、「HONMA×HUAWEI WATCH </description>
+    </item>
+    <item>
+      <title>ファーウェイ、「WATCH GT 7 Pro」など新スマートウォッチ eSIM対応モデルも(Impress Watch)</title>
+      <link>https://news.yahoo.co.jp/articles/714454093563957ed12913813eb36e56283be86c?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:10:06 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000011-impress-000-2-view.jpg?pri=l&amp;w=450&amp;h=300&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/714454093563957ed12913813eb36e56283be86c/comments</comments>
+      <description>ファーウェイ・ジャパンは、スマートウォッチおよびイヤフォンの新製品を発表した。スマートウォッチでは、「HUAWEI WATCH GT 7 Pro」「HUAWEI WATCH GT 7」「HUAWEI </description>
+    </item>
+    <item>
+      <title>ファーウェイ、新フラグシップスマートウォッチ「HUAWEI WATCH 6」。独自センサー進化で健康管理機能など強化(PHILE WEB)</title>
+      <link>https://news.yahoo.co.jp/articles/06636775bb20b25ac545c084d41344a17e953b39?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:08:18 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00131434-phileweb-000-3-view.jpg?pri=l&amp;w=450&amp;h=300&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/06636775bb20b25ac545c084d41344a17e953b39/comments</comments>
+      <description>ファーウェイ・ジャパンは、同社製スマートウォッチの新たなフラグシップモデル「HUAWEI WATCH 6」を11月5日に発売する。バンド幅46mmモデルと42mmモデルの2タイプを用意し、オープン価格</description>
+    </item>
+    <item>
+      <title>「HUAWEI WATCH 6」発表、9項目の健康データを60秒で測定　八角形のスポーツウォッチ「HUAWEI WATCH GT 7／GT 7 Pro」も(ITmedia Mobile)</title>
+      <link>https://news.yahoo.co.jp/articles/6ebf276ab3ac6cf15ad2567a3412a37b2b985b73?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:05:12 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000038-zdn_m-000-1-view.jpg?pri=l&amp;w=450&amp;h=299&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/6ebf276ab3ac6cf15ad2567a3412a37b2b985b73/comments</comments>
+      <description>ファーウェイ・ジャパンは10月21日、スマートウォッチの新製品「HUAWEI WATCH GT 7 Pro」「HUAWEI WATCH GT 7」「HUAWEI WATCH 6」を発表した。あわせて、</description>
+    </item>
+    <item>
+      <title>「HUAWEI FreeBuds Neo」発売　1万円台で“世界最高水準のノイキャン性能”をうたう(ITmedia Mobile)</title>
+      <link>https://news.yahoo.co.jp/articles/d805c04fb16d844d8f68f585c88e2f526491572b?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:05:08 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000037-zdn_m-000-1-view.jpg?pri=l&amp;w=450&amp;h=250&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/d805c04fb16d844d8f68f585c88e2f526491572b/comments</comments>
+      <description>ファーウェイ・ジャパンが10月21日、ワイヤレスイヤフォンの新製品「HUAWEI FreeBuds Neo」を発売した。市場想定価格は1万7380円。カラーはシルバー、ホワイト、ブラックの3色をそろえ</description>
+    </item>
+    <item>
+      <title>HAMAKEN WORKSの65W出力USB充電器が2製品、Type-Cケーブル付きで2,500円から(AKIBA PC Hotline!)</title>
+      <link>https://news.yahoo.co.jp/articles/e78f27e8de69bfb49fea44c71f94cc2936822dda?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:05:00 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00000008-impahw-000-1-view.jpg?pri=l&amp;w=450&amp;h=300&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/e78f27e8de69bfb49fea44c71f94cc2936822dda/comments</comments>
+      <description>65W PD出力に対応した浜田電機オリジナルUSB充電器が2モデル登場した。 店頭価格はUSB Type-C×2ポートの「HW-AC065WCCWH」が2,500円、USB Type-C×2ポート+U</description>
+    </item>
+    <item>
+      <title>ファーウェイ、最大約21日間駆動の「HUAWEI WATCH GT 7 Pro／GT 7」。スキー／サイクリング機能を強化(PHILE WEB)</title>
+      <link>https://news.yahoo.co.jp/articles/2a48b4819ad54442bacf31ac116b9d7889150631?source=rss</link>
+      <pubDate>Wed, 21 Oct 2026 06:04:39 GMT</pubDate>
+      <image>https://newsatcl-pctr.c.yimg.jp/t/amd-img/20261021-00131433-phileweb-000-1-view.jpg?pri=l&amp;w=450&amp;h=300&amp;exp=10800</image>
+      <comments>https://news.yahoo.co.jp/articles/2a48b4819ad54442bacf31ac116b9d7889150631/comments</comments>
+      <description>ファーウェイ・ジャパンは、スマートウォッチ“HUAWEI WATCH GTシリーズ”の新モデル「HUAWEI WATCH GT 7 Pro」「HUAWEI WATCH GT 7」を発表した。GT 7 </description>
+    </item>
+  </channel>
+</rss>
